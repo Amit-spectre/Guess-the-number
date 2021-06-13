@@ -1,0 +1,4 @@
+input number
+user should guess the number
+loop should continue 
+untill guess == ran_int
